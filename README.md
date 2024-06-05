@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirRoyale11
 - 👀 I’m interested in travel, live music, opera, wine and spirits education, other people's pets
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her/hers
